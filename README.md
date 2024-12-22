@@ -1,4 +1,12 @@
-# YasmeenKhaled-
+<h1 dir="rtl" style="font-size: 40px;"> 
+وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِين
+</h1>
+
+![photo_6001456634649494770_x](https://github.com/user-attachments/assets/b4924908-f6fa-4b21-9c35-a2dfee9cd205)
+
+
+
+
 
 # I'm Yasmeen Khaled 
 
