@@ -20,7 +20,7 @@
   - `Development`
   - `DevOps`
   - `Problem Solving`
-- 🌟 **I'm currently focused on** improving my ability to provide high-quality web applications and learning `Cloud & DevOps Tools`.
+- 🌟 **I'm currently focused on** improving my ability to provide high-quality Devolopment and learning`Cloud & DevOps Tools`.
 - 🍀 **Ask me about anything**, I will be happy to help!
 
 ## 💬 Quotes:
