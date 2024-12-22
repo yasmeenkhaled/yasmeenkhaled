@@ -1,8 +1,11 @@
 <h1 dir="rtl" style="font-size: 40px;"> 
-وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِين
+وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِين وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
 </h1>
 
-![photo_6001456634649494770_x](https://github.com/user-attachments/assets/b4924908-f6fa-4b21-9c35-a2dfee9cd205)
+![photo_6001456634649494812_x](https://github.com/user-attachments/assets/6c2fc35a-7097-42b3-a572-80813ffea6e8)
+
+
+
 
 
 
@@ -20,13 +23,15 @@
 - 🌟 **I'm currently focused on** improving my ability to provide high-quality web applications and learning `Cloud & DevOps Tools`.
 - 🍀 **Ask me about anything**, I will be happy to help!
 
-## 💬 Favourite Quotes:
-> "Life is about Solving Problems"
+## 💬 Quotes:
 
-> "You don't have to be great to start, but you have to start to be great" - *Zig Ziglar*
 
 > "Think twice, code once"
 
----
+## 🌐 Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasmeen-khaled-☁️-b4849b1b9)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+
 
 
