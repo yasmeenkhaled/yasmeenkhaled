@@ -5,14 +5,12 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Mahdiye+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Yasmeen+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Yasmeen&color=brightgreen" alt="watching_count" />
- </p>
+</p>
 
-
-# I'm Yasmeen Khaled 
 
 ## About Me
 - 🎓 **Graduated from** Faculty of Computer Science and Artificial Intelligence, Fayoum University, Computer Science Department.
@@ -36,3 +34,11 @@
 - [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yasmeenkhaledgg)
 
 
+
+  
+<h1>GitHub Stats 📊</h1>
+ 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=meisun0107&show_icons=true&theme=dracula) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meisun0107&theme=dracula)](https://git.io/streak-stats)  
+
+<hr>
