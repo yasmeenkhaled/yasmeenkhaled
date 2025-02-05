@@ -1,11 +1,7 @@
-<h1 dir="rtl" style="font-size: 40px;"> 
-وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِين وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
-</h1>
+<p align="center">
 
-![photo_6001456634649494812_x](https://github.com/user-attachments/assets/6c2fc35a-7097-42b3-a572-80813ffea6e8)
-
-
-
+  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
+</p>
 
 
 
