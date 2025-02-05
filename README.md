@@ -34,7 +34,14 @@
 - [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yasmeenkhaledgg)
 
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,github,c,express,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,git" />
+</div>
+
+<hr/>
   
 <h1>GitHub Stats 📊</h1>
  
